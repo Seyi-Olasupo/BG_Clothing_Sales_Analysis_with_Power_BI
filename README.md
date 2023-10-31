@@ -1,5 +1,5 @@
 # BG_Clothing_Sales_Analysis_with_Power_BI
-![](BG_Sales_Analysis.png)
+![](BG_Sales_Report.jpg)
 
 ## Introduction
 BG Fashion Clothing Line project is a data analysis project done with Power BI to analyze the company's Sales Performance within her two (2) chain lines.
