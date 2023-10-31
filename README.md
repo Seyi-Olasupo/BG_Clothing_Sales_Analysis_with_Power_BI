@@ -2,12 +2,12 @@
 ![](BG_Sales_Analysis.png)
 
 ## Introduction
-BG Fashion Clothing Line project is a data analysis project done with Power BI to analyze the company's Sales Achievements within her two (2) chain lines.
+BG Fashion Clothing Line project is a data analysis project done with Power BI to analyze the company's Sales Performance within her two (2) chain lines.
 
 ## Problem Statement: Stakeholders Requirements
 
-- WWhat is the company sales level?
-- Showcase the chainbrand sales and which brand represent the highest sales and the lowest sales?
+- What is the company sales performance level?
+- Showcase the brand chain sales and which brand represent the highest sales and the lowest sales?
 - What are the sales level by city and selling area?
 - Give an account of retail chain by competitiveness.
 - Give recommendation insights into how to improve marketing and sales from the analysed data.
@@ -32,20 +32,23 @@ Dashboard user interface and navigation portfolio
 BG Group is a premium clothing brand with two chain stores, that has demonstrated exceptional sales performance and marketing relevance across different territories. Below are the key insights.
 
 ### Total Sales and Annual Sales
-The BG Group made impressive total sales of $75 Million and a substantial total annual sales figure of $113M. This highlights their significant revenue and overall success as a brand.
+The BG Group made a substantial total sales of $75 Million and an impressive total annual sales figure of $113M. However, this highlights a deep in sales towards the end of the year. This reflects the company's significant revenue and overall success as a brand.
 
 ### Brand Chain Sales
-BG Group operates two distinct fashion chain lines, “Fashion Direct” and “Lindseys” spanning across 14 different locations, which reflects the chain wider market area.
+BG Group operates two distinct fashion chain lines, “Fashion Direct” and “Lindseys” spanning 14 locations, reflecting the chain's wider market area.
 
-### Fashion Direct Chains Dominance
-Among the two chain lines, Fashion Direct chain emerged as the most-sold chain line, having total annual sales of $72M (64%) of total sales in contrast to Lindseys chain line with total annual sales of $41M (36%), which showcase the sales performance between the two chain line.
+### Chains Dominance
+Among the two chain lines, the “Fashion Direct” chain emerged as the most-sold chain line, having total annual sales of $72M (64%) of total sales in contrast to Lindseys chain line with total annual sales of $41M (36%), which showcase the sales performance difference between the two chain line.
 
 ### Annual sales by territory
-Teritory “OH” with a total sales of $25M represents the territory with highest annual sales. This is followed by “PA” with total annual sales of $23M. The least-performing territory is “DE” with a total annual sales of $1M.
+Territory “OH” with a total sales of $25M represents the territory with the highest annual sales. This is followed by “PA” with total annual sales of $23M. The least-performing territory is “DE” with a total annual sales of $1M.
+
+To increase sales, a more consecrated approach could be taking to territory with the least annual sales, such as "OH" in other to enhance sales level.
 
 ### Retail Chain by Competitiveness
-The Retail Chain by competitiveness chart reflects how competitive each chain location in relation to sales market. Lindseys Fashion chain represent 36% of total sales while Fashion Direct represents 64% of total sales.
-Out of the 36% of total sales of “Fashion Directs”, only 3% are in competitive location, 33% are in a competitive location which reflects the sales level made by lindseys Fashion line. On the other hand, Lindseys with a total of 64% sales location had 20% in competitive location and 40% in non-competitive location. This could be attributed to the high sales volume with $72M.
+The Retail Chain by competitiveness chart reflects how competitive each chain location in relation to sales market. "Lindsey” Fashion chain represents 64% of total sales while Fashion Direct represents 36% of total sales.
+
+Out of the 36% of total sales of “Fashion Directs”, only 3% are in competitive locations, and 33% are in "No-competitive" locations which reflects the high sales level made by the "Fashion Directs" line. On the other hand, the "Lindseys" chain with a total of 64% sales location had 20% in competitive locations and 40% in "No-competitive" locations. Although "Lindseys" had more territory of sales in addition to being in a low competitive area. Opportunities attributed to this location (No-competitive) area have not been well exploited as much as Fashion Direct which had higher sales in small locations.
 
 ### Sales by Outlet Shops
 From the chart above, Laurel Lindseys from Lindseys chain line have the highest sum of sales by $2.4M. This is followed by “Charleston” Outlet shop from “Fashion Direct” with $2.1M sales. The least performing Outlet is from Lindseys (Knoxville Lindseys) with 163,000 sales.
