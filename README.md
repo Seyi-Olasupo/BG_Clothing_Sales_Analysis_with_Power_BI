@@ -37,7 +37,7 @@ The BG Group made a substantial total sales of $75 Million and an impressive tot
 ### Brand Chain Sales
 BG Group operates two distinct fashion chain lines, “Fashion Direct” and “Lindseys” spanning 14 locations, reflecting the chain's wider market area.
 
-### Chains Dominance
+### Chain Dominance
 Among the two chain lines, the “Fashion Direct” chain emerged as the most-sold chain line, having total annual sales of $72M (64%) of total sales in contrast to Lindseys chain line with total annual sales of $41M (36%), which showcase the sales performance difference between the two chain line.
 
 ### Annual sales by territory
@@ -46,9 +46,11 @@ Territory “OH” with a total sales of $25M represents the territory with the 
 To increase sales, a more consecrated approach could be taking to territory with the least annual sales, such as "OH" in other to enhance sales level.
 
 ### Retail Chain by Competitiveness
-The Retail Chain by competitiveness chart reflects how competitive each chain location in relation to sales market. "Lindsey” Fashion chain represents 64% of total sales while Fashion Direct represents 36% of total sales.
+The Retail Chain by competitiveness chart reflects how competitive each chain territory in relation to sales market. "Lindsey” Fashion chain represents 64% of total sales while Fashion Direct represents 36% of total sales.
 
-Out of the 36% of total sales of “Fashion Directs”, only 3% are in competitive locations, and 33% are in "No-competitive" locations which reflects the high sales level made by the "Fashion Directs" line. On the other hand, the "Lindseys" chain with a total of 64% sales location had 20% in competitive locations and 40% in "No-competitive" locations. Although "Lindseys" had more territory of sales in addition to being in a low competitive area. Opportunities attributed to this location (No-competitive) area have not been well exploited as much as Fashion Direct which had higher sales in small locations.
+Out of the 36% of total sales of “Fashion Directs”, only 3% are in competitive territory, and 33% are in "No-competitive" territory which reflects the high sales level made by the "Fashion Directs" line. On the other hand, the "Lindseys" chain with a total of 64% sales territory had 20% in competitive territory and 40% in "No-competitive" territory.
+
+Although "Lindseys" had more territory in "No-competitive" area. Opportunities attributed to this territory (No-competitive) area have not been well exploited as much as Fashion Direct which had higher sales in "No-competitive territory".
 
 ### Sales by Outlet Shops
 From the chart above, Laurel Lindseys from Lindseys chain line have the highest sum of sales by $2.4M. This is followed by “Charleston” Outlet shop from “Fashion Direct” with $2.1M sales. The least performing Outlet is from Lindseys (Knoxville Lindseys) with 163,000 sales.
@@ -64,7 +66,7 @@ Territory “OH” is regarded as the largest selling territory with a sum of 69
 Territory "DE” is the least selling area with 200,000 selling area.
 
 ### Sum of Sales by City
-The city with the highest total sales is recorded as “Laurel” with $2.4M total sales from the chart above.
+The city with the highest total sales is recorded as “Laurel” with $2.4M in total sales from the chart above. This reflects the metric effect of "Laurel" as one of the most sold cities.
 
 ### Retail Chain Selling Area
 The Retail Chain Selling Area consists of BG clothing selling area capacity. From the above, it can be seen that “Fashion Direct” chain records 70% coverage of selling area in comparison to Lindseys chain line with 30% coverage size.
